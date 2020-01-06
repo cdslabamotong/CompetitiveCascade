@@ -1,0 +1,12 @@
+import ../data/wiki.txt IC
+seed set: 1%
+l	reverse
+time elapsed: 0 hours 3 minutes 54 seconds
+10000	1409.22
+
+time elapsed: 0 hours 20 minutes 47 seconds
+40000	1442.82
+
+time elapsed: 0 hours 37 minutes 43 seconds
+70000	1451.47
+

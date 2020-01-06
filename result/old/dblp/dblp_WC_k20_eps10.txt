@@ -1,0 +1,26 @@
+import ../data/dblp.txt WC
+========== Sandwich running ==========
+l 3019841 892816
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 32 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+4 95.123 0.867028
+8 203.353 0.893291
+12 297.827 0.911544
+16 387.26 0.908499
+20 493.131 0.919077
+
+---------- Testing High Degree ----------
+4 34.397 0
+8 52.318 0
+12 73.092 0
+16 103.594 0
+20 118.506 0
+time elapsed: 0 hours 7 minutes 40 seconds

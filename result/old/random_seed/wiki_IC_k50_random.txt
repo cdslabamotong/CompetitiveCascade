@@ -1,0 +1,114 @@
+import ../data/wiki.txt IC
+seed set: 5%
+========== Sandwich running ==========
+7168.18 128650
+6790.91 64325
+4756.18 32162.5
+2471.35 16081.2
+1441.46 8040.62
+1137.62 4020.31
+725.524 2010.16
+617.931 1005.08
+519.294 502.539
+l 123589 21273
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 3 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+r_tuple size: 123589
+working on mid-solution...
+greedy mid #1: 474
+greedy mid #2: 903
+greedy mid #3: 1267
+greedy mid #4: 1495
+greedy mid #5: 1689
+greedy mid #6: 1876
+greedy mid #7: 2059
+greedy mid #8: 2237
+greedy mid #9: 2397
+greedy mid #10: 2555
+greedy mid #11: 2710
+greedy mid #12: 2856
+greedy mid #13: 2998
+greedy mid #14: 3132
+greedy mid #15: 3258
+greedy mid #16: 3386
+greedy mid #17: 3509
+greedy mid #18: 3619
+greedy mid #19: 3728
+greedy mid #20: 3834
+greedy mid #21: 3938
+greedy mid #22: 4037
+greedy mid #23: 4134
+greedy mid #24: 4227
+greedy mid #25: 4319
+greedy mid #26: 4408
+greedy mid #27: 4495
+greedy mid #28: 4580
+greedy mid #29: 4663
+greedy mid #30: 4746
+greedy mid #31: 4826
+greedy mid #32: 4905
+greedy mid #33: 4983
+greedy mid #34: 5058
+greedy mid #35: 5132
+greedy mid #36: 5205
+greedy mid #37: 5277
+greedy mid #38: 5347
+greedy mid #39: 5414
+greedy mid #40: 5479
+greedy mid #41: 5544
+greedy mid #42: 5607
+greedy mid #43: 5670
+greedy mid #44: 5732
+greedy mid #45: 5793
+greedy mid #46: 5854
+greedy mid #47: 5915
+greedy mid #48: 5976
+greedy mid #49: 6036
+greedy mid #50: 6095
+time elapsed: 0 hours 38 minutes 27 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 124.439 0.345582
+10 187.808 0.313353
+15 285.912 0.314902
+20 351.574 0.315287
+25 421.341 0.320565
+30 467.168 0.324488
+35 572.669 0.337558
+40 612.501 0.342851
+45 663.184 0.350885
+50 701.234 0.360704
+
+---------- Testing Reverse ----------
+5 124.457 0
+10 161.991 0
+15 239.121 0
+20 328.443 0
+25 390.945 0
+30 466.866 0
+35 549.925 0
+40 612.223 0
+45 663.677 0
+50 699.707 0
+
+---------- Testing High Degree ----------
+5 142.32 0
+10 246.004 0
+15 312.662 0
+20 389.739 0
+25 448.71 0
+30 527.923 0
+35 583.354 0
+40 631.706 0
+45 668.325 0
+50 709.514 0
+time elapsed: 0 hours 38 minutes 46 seconds

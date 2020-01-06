@@ -1,0 +1,39 @@
+import ../data/dblp.txt IC
+seed set size: 10%
+========== Sandwich running ==========
+eps_0  10
+l 7198506 605979
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 2 minutes 5 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 37.817 0.590291
+10 85.23 0.605304
+15 126.75 0.609816
+20 160.173 0.652567
+25 192.411 0.688641
+30 239.512 0.684181
+35 278.859 0.687239
+40 316.683 0.685986
+45 367.073 0.704994
+50 399.908 0.716715
+
+---------- Testing High Degree ----------
+5 31.782 0
+10 57.087 0
+15 85.517 0
+20 113.322 0
+25 125.456 0
+30 155.246 0
+35 162.986 0
+40 174.916 0
+45 187.343 0
+50 197.121 0
+time elapsed: 0 hours 10 minutes 36 seconds
+

@@ -1,0 +1,29 @@
+import ../data/hepph.txt IC
+seed set: 1%
+l	reverse
+time elapsed: 0 hours 9 minutes 46 seconds
+10000	2074.45
+
+time elapsed: 0 hours 19 minutes 13 seconds
+15000	2168.22
+
+time elapsed: 0 hours 29 minutes 13 seconds
+20000	2219.03
+
+time elapsed: 0 hours 39 minutes 8 seconds
+25000	2199.36
+
+time elapsed: 0 hours 51 minutes 5 seconds
+30000	2252.86
+
+time elapsed: 1 hours 3 minutes 2 seconds
+35000	2251.08
+
+time elapsed: 1 hours 14 minutes 6 seconds
+40000	2259.57
+
+time elapsed: 1 hours 23 minutes 48 seconds
+45000	2267.12
+
+
+time elapsed: 6 hours 10 minutes 49 seconds

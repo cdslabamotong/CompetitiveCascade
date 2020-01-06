@@ -1,0 +1,59 @@
+import ../data/hepph.txt WC
+========== Sandwich running ==========
+l 211435 18424
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 6 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+r_tuple size: 211435
+working on mid-solution...
+greedy mid #1: 491
+greedy mid #2: 808
+greedy mid #3: 1080
+greedy mid #4: 1335
+greedy mid #5: 1580
+greedy mid #6: 1825
+greedy mid #7: 2038
+greedy mid #8: 2245
+greedy mid #9: 2451
+greedy mid #10: 2648
+greedy mid #11: 2842
+greedy mid #12: 3032
+greedy mid #13: 3218
+greedy mid #14: 3403
+greedy mid #15: 3587
+greedy mid #16: 3767
+greedy mid #17: 3938
+greedy mid #18: 4109
+greedy mid #19: 4277
+greedy mid #20: 4443
+time elapsed: 0 hours 5 minutes 37 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+4 158.311 1
+8 288.108 1
+12 418.181 1
+16 581.332 1
+20 715.309 1
+
+---------- Testing Reverse ----------
+4 158.137 0
+8 287.375 0
+12 414.012 0
+16 580.227 0
+20 715.984 0
+
+---------- Testing High Degree ----------
+4 90.781 0
+8 144.373 0
+12 194.11 0
+16 252.242 0
+20 348.727 0
+time elapsed: 0 hours 8 minutes 8 seconds

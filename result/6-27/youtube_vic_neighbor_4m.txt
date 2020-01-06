@@ -1,0 +1,152 @@
+import ../data/youtube_vic.txt VIC
+seed set: 1%
+========== Sandwich running ==========
+1.1579e+06 1.79474e+07
+732848 8.97372e+06
+364119 4.48686e+06
+188749 2.24343e+06
+99662.8 1.12172e+06
+55267.5 560858
+32616.9 280429
+21966.8 140214
+19360.6 70107.2
+14321.6 35053.6
+11519.3 17526.8
+10259.7 8763.4
+l 1585224 0
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 12 minutes 48 seconds
+========== Sandwich finish ==========
+
+========== Sandwich running ==========
+1.1579e+06 1.79474e+07
+732848 8.97372e+06
+364119 4.48686e+06
+181489 2.24343e+06
+90602.5 1.12172e+06
+45301.3 560858
+24462.7 280429
+16984.6 140214
+12114.5 70107.2
+7415.54 35053.6
+5830.4 17526.8
+4882.19 8763.4
+4294.89 4381.7
+3919.87 2190.85
+l 4149092 42259
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 4 minutes 9 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+l 60459 615
+working on mid-solution...
+greedy mid #1: 25
+greedy mid #2: 47
+greedy mid #3: 58
+greedy mid #4: 67
+greedy mid #5: 75
+greedy mid #6: 83
+greedy mid #7: 90
+greedy mid #8: 97
+greedy mid #9: 103
+greedy mid #10: 109
+greedy mid #11: 115
+greedy mid #12: 121
+greedy mid #13: 127
+greedy mid #14: 133
+greedy mid #15: 138
+greedy mid #16: 143
+greedy mid #17: 148
+greedy mid #18: 153
+greedy mid #19: 157
+greedy mid #20: 161
+greedy mid #21: 165
+greedy mid #22: 169
+greedy mid #23: 173
+greedy mid #24: 177
+greedy mid #25: 181
+greedy mid #26: 185
+greedy mid #27: 189
+greedy mid #28: 193
+greedy mid #29: 197
+greedy mid #30: 201
+greedy mid #31: 205
+greedy mid #32: 209
+greedy mid #33: 213
+greedy mid #34: 217
+greedy mid #35: 220
+greedy mid #36: 223
+greedy mid #37: 226
+greedy mid #38: 229
+greedy mid #39: 232
+greedy mid #40: 235
+greedy mid #41: 238
+greedy mid #42: 241
+greedy mid #43: 244
+greedy mid #44: 247
+greedy mid #45: 250
+greedy mid #46: 253
+greedy mid #47: 256
+greedy mid #48: 259
+greedy mid #49: 262
+greedy mid #50: 265
+time elapsed: 0 hours 31 minutes 19 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+NEW TESTING
+---------- Testing Sandwich ----------
+5 659.424 0.901975
+10 1317.98 0.907675
+15 1626.56 0.828706
+20 2279.91 0.864751
+25 2716.72 0.877281
+30 3039.78 0.869494
+35 3280.33 0.863522
+40 3581.38 0.838248
+45 3787.2 0.822292
+50 4087.39 0.809645
+
+---------- Testing Sandwich without cascade ----------
+5 554.345 1
+10 672.74 1
+15 794.898 1
+20 912.136 1
+25 1091.61 1
+30 1170.35 1
+35 1366.61 1
+40 1471.69 1
+45 1557.38 1
+50 1630.03 1
+
+---------- Testing Reverse ----------
+5 882.32 0
+10 1162.24 0
+15 1427.98 0
+20 2045.72 0
+25 2327.67 0
+30 2676.78 0
+35 2766.51 0
+40 2999.54 0
+45 3118.51 0
+50 3271.65 0
+
+---------- Testing High Degree ----------
+5 644.95 0
+10 1267.32 0
+15 1595.59 0
+20 2258.19 0
+25 2657.38 0
+30 3003.59 0
+35 3255.15 0
+40 3590.65 0
+45 3779.1 0
+50 4054.1 0
+
+time elapsed: 0 hours 59 minutes 0 seconds

@@ -1,0 +1,36 @@
+import ../data/youtube.txt WC
+========== Sandwich running ==========
+l 411699 137656
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 38 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 8198.19 0.955133
+10 14105.7 0.957008
+15 18022.8 0.95753
+20 20764.3 0.960276
+25 24025.8 0.958793
+30 26823.3 0.958127
+35 32251.5 0.959221
+40 35150.2 0.960651
+45 37479.9 0.961446
+50 40764.1 0.961874
+
+---------- Testing High Degree ----------
+5 5948.33 0
+10 9479.63 0
+15 14975.8 0
+20 17091.9 0
+25 21409.3 0
+30 24240.1 0
+35 27539.6 0
+40 32106.4 0
+45 34851.5 0
+50 38457.7 0
+time elapsed: 1 hours 13 minutes 59 seconds

@@ -1,0 +1,351 @@
+import ../data/youtube_vic.txt VIC
+400
+5018.23
+5369.76
+4972.6
+4586.44
+time elapsed: 0 hours 4 minutes 9 seconds
+----------
+400
+4537.27
+4897.92
+4555.18
+4151.07
+time elapsed: 0 hours 4 minutes 1 seconds
+----------
+400
+5032.42
+5373.81
+4978.97
+4598.6
+time elapsed: 0 hours 4 minutes 1 seconds
+----------
+400
+4933.82
+5303.18
+4941.92
+4520.44
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+5581.14
+6003.71
+5599.03
+5192.6
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4531.85
+4775.76
+4427.23
+4049.18
+time elapsed: 0 hours 4 minutes 0 seconds
+----------
+400
+4679.69
+4973.76
+4617.13
+4233.86
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+400
+4914.78
+5347.18
+4976.08
+4556.92
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+400
+5033.94
+5387.13
+5018.92
+4633.34
+time elapsed: 0 hours 4 minutes 17 seconds
+----------
+400
+5029.53
+5406.81
+5026.44
+4633.34
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+4151.17
+4569.07
+4215.33
+3851.18
+time elapsed: 0 hours 4 minutes 8 seconds
+----------
+400
+5444.07
+5881.55
+5477.45
+5049.02
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4164.08
+4563.28
+4218.81
+3857.54
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+400
+4045.36
+4460.81
+4089.12
+3760.28
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+5022.36
+5473.97
+5108.08
+4714.39
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+4916.23
+5344.87
+4958.71
+4566.76
+time elapsed: 0 hours 4 minutes 2 seconds
+----------
+400
+4117.19
+4530.86
+4166.12
+3830.33
+time elapsed: 0 hours 4 minutes 11 seconds
+----------
+400
+3929.7
+4411.02
+4067.7
+3744.07
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+400
+5352.65
+5650.55
+5246.44
+4841.76
+time elapsed: 0 hours 4 minutes 0 seconds
+----------
+400
+4635.17
+5053.65
+4670.97
+4284.81
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+400
+3746.34
+4132.55
+3813.54
+3492.23
+time elapsed: 0 hours 4 minutes 0 seconds
+----------
+400
+5302.7
+5622.18
+5219.81
+4827.86
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4678.93
+5041.5
+4664.02
+4291.76
+time elapsed: 0 hours 4 minutes 11 seconds
+----------
+400
+4312.95
+4607.28
+4248.34
+3881.86
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+4398.56
+4577.18
+4230.97
+3880.7
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4013.38
+4374.55
+4038.18
+3701.81
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+3924.43
+4300.44
+3990.12
+3657.23
+time elapsed: 0 hours 4 minutes 8 seconds
+----------
+400
+4832.61
+5098.81
+4717.28
+4322.44
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+5135.09
+5587.45
+5204.76
+4807.6
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+5707.94
+6095.19
+5677.76
+5284.66
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+4997.23
+5495.39
+5110.97
+4727.71
+time elapsed: 0 hours 4 minutes 3 seconds
+----------
+400
+5172.62
+5649.97
+5248.18
+4825.55
+time elapsed: 0 hours 4 minutes 4 seconds
+----------
+400
+5270.91
+5611.76
+5212.87
+4804.13
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+5314.51
+5632.6
+5214.02
+4802.97
+time elapsed: 0 hours 4 minutes 0 seconds
+----------
+400
+5252.96
+5617.55
+5236.6
+4851.6
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+5344.25
+5760.55
+5352.39
+4950.6
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+3911.49
+4188.12
+3855.23
+3522.33
+time elapsed: 0 hours 4 minutes 5 seconds
+----------
+400
+4414.19
+4825.55
+4447.49
+4066.54
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+5155.52
+5579.34
+5186.23
+4765.34
+time elapsed: 0 hours 4 minutes 4 seconds
+----------
+400
+4535.04
+4869.55
+4505.97
+4158.6
+time elapsed: 0 hours 4 minutes 14 seconds
+----------
+400
+4792.45
+5188.55
+4811.65
+4430.7
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+400
+3929.99
+4221.7
+3895.75
+3560.54
+time elapsed: 0 hours 4 minutes 2 seconds
+----------
+400
+5557.36
+5884.45
+5497.71
+5067.55
+time elapsed: 0 hours 4 minutes 4 seconds
+----------
+400
+4168.33
+4518.13
+4152.23
+3779.39
+time elapsed: 0 hours 4 minutes 8 seconds
+----------
+400
+4532.42
+4819.18
+4441.13
+4069.44
+time elapsed: 0 hours 4 minutes 5 seconds
+----------
+400
+5360
+5725.82
+5342.55
+4922.81
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4891.5
+5266.13
+4879.39
+4490.92
+time elapsed: 0 hours 4 minutes 8 seconds
+----------
+400
+4753.23
+5072.18
+4723.07
+4339.23
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+400
+4760.8
+5056.55
+4682.55
+4289.44
+time elapsed: 0 hours 4 minutes 9 seconds
+----------
+400
+5700.99
+6102.71
+5685.29
+5262.66
+time elapsed: 0 hours 4 minutes 1 seconds
+----------

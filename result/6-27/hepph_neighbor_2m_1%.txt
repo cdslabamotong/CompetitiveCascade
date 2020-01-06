@@ -1,0 +1,143 @@
+import ../data/hepph.txt IC
+seed set: 1%
+========== Sandwich running ==========
+35000 542500
+35000 271250
+19587.2 135625
+12465.8 67812.5
+8610.48 33906.2
+6649.6 16953.1
+5531.55 8476.56
+5123.65 4238.28
+l 65401 0
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 2 seconds
+========== Sandwich finish ==========
+
+========== Sandwich running ==========
+35000 542500
+33703.7 271250
+17339.4 135625
+9748.86 67812.5
+7175.4 33906.2
+4778.16 16953.1
+3661.17 8476.56
+2825.47 4238.28
+2412.25 2119.14
+l 138914 18207
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 1 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+l 2969 367
+working on mid-solution...
+greedy mid #1: 12
+greedy mid #2: 22
+greedy mid #3: 32
+greedy mid #4: 41
+greedy mid #5: 49
+greedy mid #6: 57
+greedy mid #7: 64
+greedy mid #8: 71
+greedy mid #9: 78
+greedy mid #10: 85
+greedy mid #11: 91
+greedy mid #12: 97
+greedy mid #13: 103
+greedy mid #14: 109
+greedy mid #15: 115
+greedy mid #16: 121
+greedy mid #17: 127
+greedy mid #18: 132
+greedy mid #19: 137
+greedy mid #20: 142
+greedy mid #21: 147
+greedy mid #22: 152
+greedy mid #23: 157
+greedy mid #24: 162
+greedy mid #25: 166
+greedy mid #26: 170
+greedy mid #27: 174
+greedy mid #28: 178
+greedy mid #29: 182
+greedy mid #30: 186
+greedy mid #31: 190
+greedy mid #32: 194
+greedy mid #33: 198
+greedy mid #34: 202
+greedy mid #35: 206
+greedy mid #36: 210
+greedy mid #37: 214
+greedy mid #38: 218
+greedy mid #39: 222
+greedy mid #40: 225
+greedy mid #41: 228
+greedy mid #42: 231
+greedy mid #43: 234
+greedy mid #44: 237
+greedy mid #45: 240
+greedy mid #46: 243
+greedy mid #47: 246
+greedy mid #48: 249
+greedy mid #49: 252
+greedy mid #50: 255
+time elapsed: 0 hours 1 minutes 16 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+NEW TESTING
+---------- Testing Sandwich ----------
+5 350.534 0.328816
+10 632.8 0.639446
+15 980.053 0.683781
+20 1206.94 0.721297
+25 1436.99 0.745329
+30 1632.39 0.761019
+35 1802.14 0.772665
+40 1942.64 0.769644
+45 2091.76 0.764038
+50 2219.92 0.769538
+
+---------- Testing Sandwich without cascade ----------
+5 188.939 1
+10 588.971 1
+15 796.933 1
+20 1021.7 1
+25 1300.67 1
+30 1466.12 1
+35 1648.7 1
+40 1752.4 1
+45 1882.86 1
+50 2000.93 1
+
+---------- Testing Reverse ----------
+5 150.92 0
+10 239.636 0
+15 429.494 0
+20 492.844 0
+25 708.732 0
+30 923.93 0
+35 1160.62 0
+40 1268.86 0
+45 1388.11 0
+50 1518.96 0
+
+---------- Testing High Degree ----------
+5 222.574 0
+10 455.805 0
+15 617.846 0
+20 759.509 0
+25 1001.59 0
+30 1260.13 0
+35 1514.57 0
+40 1731.88 0
+45 1886.73 0
+50 2042.26 0
+
+time elapsed: 0 hours 2 minutes 52 seconds

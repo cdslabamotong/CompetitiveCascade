@@ -1,0 +1,5 @@
+import ../data/youtube.txt WC
+seed set: 0.5%
+l	sandwich	reverse
+5000	82729.9		82768.3
+10000	87829.8		87498

@@ -1,0 +1,351 @@
+import ../data/higgs_100.txt VIC
+400
+1060.88
+1227.55
+1058.15
+859.15
+time elapsed: 0 hours 0 minutes 11 seconds
+----------
+400
+1034.98
+1208.85
+1029.35
+862.65
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1184.4
+1317.05
+1185.65
+994.8
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1007.31
+1171.95
+1007.7
+846.5
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1085.99
+1237.35
+1085.65
+897.15
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1080.21
+1254.3
+1076.05
+890.3
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1069.53
+1248.45
+1063.5
+878.5
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1087.86
+1241.55
+1071.35
+861.95
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1148.23
+1301.7
+1152.7
+966.15
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1120.63
+1280.55
+1118.3
+914.9
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1028.9
+1222.15
+1037.45
+865.05
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1035.47
+1188.5
+1023.95
+860.35
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1126.54
+1252.15
+1123.1
+955.4
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1082.22
+1237.9
+1084.75
+893.15
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1060.68
+1201.15
+1047.25
+874.8
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1086.94
+1266
+1101.3
+905.75
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1139.85
+1278.1
+1141
+951.75
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1084.44
+1219.8
+1073.05
+897.25
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1098.38
+1262.95
+1094.75
+895.85
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1126.93
+1290.45
+1121.6
+883.75
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1068.63
+1212.65
+1064.8
+910.05
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1133.04
+1297.5
+1136.45
+949.9
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1146.55
+1281.35
+1143.65
+973.75
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1154.26
+1282.95
+1145.8
+962.05
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1049
+1229.4
+1049.65
+870.35
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+979.652
+1168.8
+969.3
+781.2
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1020.69
+1187.8
+1025.25
+864.7
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1109.8
+1261.6
+1107
+943.4
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1066.86
+1231.8
+1059.2
+853.25
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1117.5
+1293.35
+1122.55
+934.2
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1024.01
+1185.9
+1022.2
+847.2
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1066.07
+1257.4
+1077.1
+862.1
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1057.91
+1228.15
+1060.35
+889.3
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+986.998
+1173.35
+987.1
+792
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1178.21
+1316
+1171.7
+988.05
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1106.93
+1266.25
+1118.05
+937.1
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1020.94
+1197.15
+1021.8
+840.5
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1124.6
+1269.7
+1121.05
+945.15
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+959.99
+1129.55
+961.95
+816.9
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1248.05
+1390.5
+1259.3
+1074.65
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1091.18
+1239.85
+1084
+913.5
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1060.9
+1244.65
+1062.05
+855.2
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1089.41
+1261.4
+1105.1
+915.85
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1067.74
+1232.85
+1073.65
+861.5
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1035.59
+1217.55
+1037.05
+813.9
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1086.38
+1231.25
+1080.1
+909.25
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1097.4
+1256.65
+1105.8
+901.4
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+995.802
+1164.55
+986.95
+820.9
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+400
+1012.3
+1185.85
+1013.5
+822.65
+time elapsed: 0 hours 0 minutes 10 seconds
+----------
+400
+1115.66
+1289.45
+1115.8
+915.25
+time elapsed: 0 hours 0 minutes 9 seconds
+----------

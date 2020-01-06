@@ -1,0 +1,26 @@
+import ../data/youtube.txt IC
+========== Sandwich running ==========
+l 1789489 118065
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 2 minutes 26 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+4 1835.78 0.761871
+8 2492 0.752467
+12 3077.58 0.758483
+16 3960.91 0.786458
+20 4526.73 0.784098
+
+---------- Testing High Degree ----------
+4 1377.88 0
+8 2411.4 0
+12 2967.51 0
+16 3660.74 0
+20 4440.07 0
+time elapsed: 0 hours 28 minutes 37 seconds

@@ -1,0 +1,80 @@
+import ../data/hepph.txt IC
+seed set: 1%
+l	reverse
+time elapsed: 0 hours 9 minutes 58 seconds
+10000	1582.68
+
+time elapsed: 0 hours 18 minutes 33 seconds
+15000	1766.28
+
+time elapsed: 0 hours 28 minutes 43 seconds
+20000	1617.75
+
+time elapsed: 0 hours 44 minutes 42 seconds
+25000	1749.62
+
+time elapsed: 0 hours 54 minutes 23 seconds
+30000	1922.08
+
+time elapsed: 1 hours 10 minutes 31 seconds
+35000	1963.17
+
+time elapsed: 1 hours 22 minutes 18 seconds
+40000	1978.8
+
+time elapsed: 1 hours 31 minutes 11 seconds
+45000	1933.28
+
+time elapsed: 1 hours 51 minutes 7 seconds
+50000	1953.12
+
+time elapsed: 2 hours 3 minutes 56 seconds
+55000	2088.8
+
+time elapsed: 2 hours 20 minutes 57 seconds
+60000	2133.27
+
+time elapsed: 2 hours 48 minutes 55 seconds
+65000	2013.62
+
+time elapsed: 3 hours 0 minutes 14 seconds
+70000	2185.52
+
+time elapsed: 3 hours 21 minutes 54 seconds
+75000	2147.16
+
+time elapsed: 3 hours 37 minutes 41 seconds
+80000	2142.14
+
+time elapsed: 3 hours 57 minutes 51 seconds
+85000	2054.24
+
+time elapsed: 4 hours 17 minutes 47 seconds
+90000	2177.39
+
+time elapsed: 4 hours 30 minutes 8 seconds
+95000	2174.55
+
+time elapsed: 4 hours 43 minutes 20 seconds
+100000	2132.46
+
+time elapsed: 5 hours 2 minutes 8 seconds
+105000	2210.11
+
+time elapsed: 5 hours 21 minutes 10 seconds
+110000	2171.42
+
+time elapsed: 5 hours 43 minutes 22 seconds
+115000	2188.36
+
+time elapsed: 5 hours 52 minutes 17 seconds
+120000	2185.38
+
+time elapsed: 6 hours 9 minutes 5 seconds
+125000	2203.14
+
+time elapsed: 6 hours 3 minutes 8 seconds
+130000	2179.52
+
+time elapsed: 6 hours 23 minutes 0 seconds
+135000	2174.99

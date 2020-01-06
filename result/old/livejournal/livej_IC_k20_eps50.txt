@@ -1,0 +1,29 @@
+import ../data/livej.txt IC
+seed set: 1%
+========== Sandwich running ==========
+eps_0: 50
+l 2717004
+867689
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 16 minutes 15 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+4 3999.86 0.530683
+8 7275.94 0.517823
+12 9527.49 0.527074
+16 11978.9 0.577985
+20 13698.5 0.594078
+
+---------- Testing High Degree ----------
+4 599.347 0
+8 1044.05 0
+12 1453 0
+16 1950.67 0
+20 3607.01 0
+time elapsed: 5 hours 4 minutes 28 seconds

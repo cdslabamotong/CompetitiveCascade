@@ -1,0 +1,104 @@
+import ../data/hepph.txt IC
+========== Sandwich running ==========
+l 1172949 39368
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 35 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+r_tuple size: 1172949
+working on mid-solution...
+greedy mid #1: 480
+greedy mid #2: 866
+greedy mid #3: 1198
+greedy mid #4: 1527
+greedy mid #5: 1811
+greedy mid #6: 2091
+greedy mid #7: 2353
+greedy mid #8: 2608
+greedy mid #9: 2858
+greedy mid #10: 3104
+greedy mid #11: 3340
+greedy mid #12: 3569
+greedy mid #13: 3784
+greedy mid #14: 3998
+greedy mid #15: 4207
+greedy mid #16: 4414
+greedy mid #17: 4618
+greedy mid #18: 4817
+greedy mid #19: 5014
+greedy mid #20: 5211
+greedy mid #21: 5404
+greedy mid #22: 5596
+greedy mid #23: 5783
+greedy mid #24: 5969
+greedy mid #25: 6149
+greedy mid #26: 6329
+greedy mid #27: 6507
+greedy mid #28: 6684
+greedy mid #29: 6860
+greedy mid #30: 7036
+greedy mid #31: 7211
+greedy mid #32: 7385
+greedy mid #33: 7555
+greedy mid #34: 7724
+greedy mid #35: 7893
+greedy mid #36: 8061
+greedy mid #37: 8227
+greedy mid #38: 8393
+greedy mid #39: 8557
+greedy mid #40: 8720
+greedy mid #41: 8882
+greedy mid #42: 9043
+greedy mid #43: 9201
+greedy mid #44: 9359
+greedy mid #45: 9517
+greedy mid #46: 9674
+greedy mid #47: 9829
+greedy mid #48: 9982
+greedy mid #49: 10134
+greedy mid #50: 10286
+time elapsed: 2 hours 5 minutes 21 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 43.954 1
+10 69.454 1
+15 97.273 1
+20 122.585 1
+25 152.733 1
+30 179.865 1
+35 214.493 1
+40 240.524 1
+45 265.645 1
+50 301.85 1
+
+---------- Testing Reverse ----------
+5 41.5 0
+10 66.987 0
+15 96.186 0
+20 124.562 0
+25 154.897 0
+30 180.84 0
+35 210.421 0
+40 241.547 0
+45 265.4 0
+50 301.86 0
+
+---------- Testing High Degree ----------
+5 19.549 0
+10 58.129 0
+15 79.1 0
+20 96.043 0
+25 112.304 0
+30 126.423 0
+35 144.361 0
+40 164.76 0
+45 191.061 0
+50 216.572 0
+time elapsed: 2 hours 9 minutes 18 seconds

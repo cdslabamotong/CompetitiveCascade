@@ -1,0 +1,351 @@
+import ../data/youtube_vic.txt VIC
+100
+1686.72
+1922.69
+1744.96
+1590.38
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+1774.48
+1961.48
+1793.59
+1605.43
+time elapsed: 0 hours 3 minutes 47 seconds
+----------
+100
+2645.18
+3008.8
+2749.43
+2483.7
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+1668.1
+1905.32
+1730.48
+1560.27
+time elapsed: 0 hours 3 minutes 51 seconds
+----------
+100
+1302.36
+1438.69
+1302.06
+1182.79
+time elapsed: 0 hours 3 minutes 47 seconds
+----------
+100
+1724.5
+1907.06
+1728.74
+1571.85
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1828.48
+1959.17
+1797.64
+1637.27
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1912.09
+2098.11
+1891.43
+1707.32
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1734.97
+1939.48
+1747.27
+1591.53
+time elapsed: 0 hours 3 minutes 51 seconds
+----------
+100
+2209.73
+2473.27
+2255.59
+2041.38
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+100
+1862.66
+1956.85
+1770.43
+1601.38
+time elapsed: 0 hours 3 minutes 52 seconds
+----------
+100
+2216.56
+2393.96
+2178.59
+1999.69
+time elapsed: 0 hours 3 minutes 51 seconds
+----------
+100
+1613.61
+1722.38
+1574.17
+1433.48
+time elapsed: 0 hours 3 minutes 47 seconds
+----------
+100
+1592.61
+1704.43
+1551.59
+1398.16
+time elapsed: 0 hours 4 minutes 0 seconds
+----------
+100
+2006.74
+2266.59
+2080.17
+1863.06
+time elapsed: 0 hours 3 minutes 50 seconds
+----------
+100
+2362.02
+2598.91
+2370.22
+2161.8
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+2205.63
+2490.06
+2261.38
+2036.17
+time elapsed: 0 hours 3 minutes 50 seconds
+----------
+100
+1669.27
+1808.06
+1643.06
+1486.74
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1956.32
+2124.75
+1925.01
+1737.43
+time elapsed: 0 hours 3 minutes 47 seconds
+----------
+100
+3456.32
+3877.81
+3558.81
+3238.07
+time elapsed: 0 hours 3 minutes 52 seconds
+----------
+100
+1349.46
+1460.11
+1305.53
+1178.16
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1446.03
+1608.32
+1468.22
+1332.74
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+2460.63
+2721.64
+2464.01
+2220.85
+time elapsed: 0 hours 3 minutes 55 seconds
+----------
+100
+1120.17
+1232.58
+1111.01
+1010.85
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1190.53
+1336.22
+1208.85
+1090.74
+time elapsed: 0 hours 3 minutes 53 seconds
+----------
+100
+1358.92
+1562.01
+1430.01
+1293.95
+time elapsed: 0 hours 3 minutes 54 seconds
+----------
+100
+1760.84
+1920.96
+1750.74
+1601.95
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+2473.85
+2720.49
+2462.27
+2228.96
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1621.18
+1776.22
+1607.17
+1457.8
+time elapsed: 0 hours 3 minutes 54 seconds
+----------
+100
+1960.31
+2128.8
+1937.17
+1750.74
+time elapsed: 0 hours 3 minutes 53 seconds
+----------
+100
+1721.54
+1921.54
+1749.01
+1582.27
+time elapsed: 0 hours 3 minutes 59 seconds
+----------
+100
+2335.19
+2649.28
+2418.85
+2166.43
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+1446.8
+1567.22
+1424.22
+1289.9
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+3416.24
+3763.18
+3436.65
+3129.8
+time elapsed: 0 hours 3 minutes 58 seconds
+----------
+100
+1563.88
+1751.32
+1577.64
+1427.69
+time elapsed: 0 hours 3 minutes 50 seconds
+----------
+100
+1289.99
+1423.06
+1294.53
+1161.95
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+1360.85
+1448.53
+1321.16
+1193.79
+time elapsed: 0 hours 3 minutes 49 seconds
+----------
+100
+1489.98
+1715.43
+1551.59
+1397.01
+time elapsed: 0 hours 3 minutes 52 seconds
+----------
+100
+3207.55
+3557.07
+3257.75
+2985.07
+time elapsed: 0 hours 3 minutes 55 seconds
+----------
+100
+1433.99
+1609.48
+1469.38
+1331.59
+time elapsed: 0 hours 3 minutes 48 seconds
+----------
+100
+1089.96
+1161.95
+1057.74
+957.004
+time elapsed: 0 hours 3 minutes 52 seconds
+----------
+100
+1437.21
+1506.43
+1368.64
+1235.48
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+1950.95
+2106.22
+1903.01
+1718.9
+time elapsed: 0 hours 3 minutes 50 seconds
+----------
+100
+1488.37
+1654.06
+1504.11
+1357.06
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+1498.81
+1674.9
+1517.43
+1374.43
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+3155.32
+3515.96
+3213.75
+2916.75
+time elapsed: 0 hours 3 minutes 53 seconds
+----------
+100
+2071.17
+2299.01
+2084.8
+1885.06
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+1950.23
+2161.8
+1978.27
+1800.53
+time elapsed: 0 hours 3 minutes 57 seconds
+----------
+100
+1200.81
+1328.11
+1201.9
+1091.32
+time elapsed: 0 hours 3 minutes 52 seconds
+----------
+100
+1896.65
+2035.01
+1853.8
+1674.32
+time elapsed: 0 hours 3 minutes 55 seconds
+----------

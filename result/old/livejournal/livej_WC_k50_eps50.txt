@@ -1,0 +1,39 @@
+import ../data/livej.txt WC
+seed set: 1%
+========== Sandwich running ==========
+eps_0: 50
+l 7140722
+1.82273e+06
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 42 minutes 28 seconds
+========== Sandwich finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 1137.14 0.953779
+10 2202.23 0.946675
+15 3526.93 0.931013
+20 4499.02 0.939326
+25 5732.88 0.942954
+30 6899.9 0.945381
+35 7963.11 0.947359
+40 9409.32 0.951375
+45 10374.8 0.954804
+50 11304.8 0.954826
+
+---------- Testing High Degree ----------
+5 273.024 0
+10 1225.61 0
+15 1802.66 0
+20 2314.86 0
+25 2654.4 0
+30 3069.57 0
+35 3813.41 0
+40 4486.35 0
+45 5279.52 0
+50 5946.23 0
+time elapsed: 7 hours 53 minutes 12 seconds

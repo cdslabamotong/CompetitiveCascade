@@ -1,0 +1,351 @@
+import ../data/higgs_100.txt VIC
+200
+668.854
+872.75
+670.15
+495.8
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+634.897
+812.8
+635.85
+501.25
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+642.512
+819.5
+646.15
+515.65
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+542.1
+732
+550.65
+428.6
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+666.269
+861.05
+671.35
+506.9
+time elapsed: 0 hours 0 minutes 7 seconds
+----------
+200
+794.102
+945.4
+791.5
+629.1
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+617.655
+787.7
+626.65
+500.25
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+591.385
+784.7
+596.5
+447.6
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+687.86
+860.1
+688.05
+532.75
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+649.18
+831.6
+640.7
+473.1
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+676.168
+862.7
+675.2
+529.5
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+610.418
+820.75
+614.55
+466.1
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+679.017
+873.05
+674.55
+508.55
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+566.111
+753.25
+571.8
+450.7
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+720.92
+915.3
+724.5
+536.95
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+569.176
+765.65
+567.4
+438.15
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+700.994
+894.25
+701.45
+537.3
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+712.559
+897.5
+707.95
+553.5
+time elapsed: 0 hours 0 minutes 6 seconds
+----------
+200
+601.74
+798.15
+613.8
+462.3
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+754.944
+944.7
+753.45
+570.55
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+550.112
+750.5
+555.45
+426.15
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+649.893
+825.85
+649.7
+520.05
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+651.404
+825
+652.3
+525.65
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+597.864
+766.35
+591.4
+460.15
+time elapsed: 0 hours 0 minutes 7 seconds
+----------
+200
+760.973
+917.55
+756.9
+569.4
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+620.852
+788.6
+620.15
+499.4
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+704.14
+875.3
+705.5
+535
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+604.964
+773.2
+590.6
+453.85
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+664.817
+840.8
+672
+513.45
+time elapsed: 0 hours 0 minutes 7 seconds
+----------
+200
+668.598
+851.55
+673.05
+524.4
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+672.703
+860.3
+669.3
+507.45
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+631.027
+822.35
+625.25
+480.35
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+610.974
+819.35
+612.85
+453.9
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+793.696
+931.45
+783.45
+611.5
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+627.636
+835.5
+632.35
+476.35
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+689.122
+859.25
+690.7
+541.15
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+640.388
+856.85
+649.15
+476.95
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+654.765
+829.6
+651.2
+511.7
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+666.599
+868.35
+666.5
+487.35
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+702.095
+902.9
+706.1
+519.75
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+704.367
+864
+700.05
+563.4
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+629.126
+809.8
+625.95
+480.65
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+715.586
+876.05
+709.3
+568.9
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+659.412
+860.3
+654.2
+475.65
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+638.819
+805.9
+642.75
+526.75
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+802.817
+947.35
+792.45
+630.5
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+767.446
+930.45
+762
+592.8
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+622.389
+801.95
+615.95
+472.7
+time elapsed: 0 hours 0 minutes 9 seconds
+----------
+200
+700.518
+885
+697.6
+522.9
+time elapsed: 0 hours 0 minutes 8 seconds
+----------
+200
+558.267
+728
+564.25
+457.65
+time elapsed: 0 hours 0 minutes 9 seconds
+----------

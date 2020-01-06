@@ -1,0 +1,115 @@
+import ../data/youtube.txt WC
+seed set: 5%
+========== Sandwich running ==========
+950072 1.79474e+07
+791476 8.97372e+06
+400531 4.48686e+06
+206897 2.24343e+06
+128656 1.12172e+06
+89696.5 560858
+63874.8 280429
+49368.7 140214
+46420.2 70107.2
+45002.7 35053.6
+l 361398 149584
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 1 minutes 8 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+l 5266 2114
+working on mid-solution...
+greedy mid #1: 21
+greedy mid #2: 37
+greedy mid #3: 49
+greedy mid #4: 61
+greedy mid #5: 69
+greedy mid #6: 77
+greedy mid #7: 84
+greedy mid #8: 92
+greedy mid #9: 99
+greedy mid #10: 105
+greedy mid #11: 110
+greedy mid #12: 115
+greedy mid #13: 119
+greedy mid #14: 124
+greedy mid #15: 129
+greedy mid #16: 134
+greedy mid #17: 139
+greedy mid #18: 143
+greedy mid #19: 147
+greedy mid #20: 151
+greedy mid #21: 155
+greedy mid #22: 159
+greedy mid #23: 163
+greedy mid #24: 166
+greedy mid #25: 169
+greedy mid #26: 172
+greedy mid #27: 174
+greedy mid #28: 177
+greedy mid #29: 180
+greedy mid #30: 183
+greedy mid #31: 186
+greedy mid #32: 189
+greedy mid #33: 192
+greedy mid #34: 195
+greedy mid #35: 198
+greedy mid #36: 200
+greedy mid #37: 203
+greedy mid #38: 204
+greedy mid #39: 205
+greedy mid #40: 207
+greedy mid #41: 209
+greedy mid #42: 211
+greedy mid #43: 213
+greedy mid #44: 215
+greedy mid #45: 217
+greedy mid #46: 219
+greedy mid #47: 221
+greedy mid #48: 223
+greedy mid #49: 225
+greedy mid #50: 227
+time elapsed: 0 hours 16 minutes 9 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+---------- Testing Sandwich ----------
+5 7676.69 0.949445
+10 12404.2 0.928515
+15 17902.8 0.928571
+20 22064.2 0.924695
+25 25020.2 0.926685
+30 28320.1 0.927072
+35 33144.1 0.928769
+40 37668.8 0.929996
+45 40399.9 0.93064
+50 43802.3 0.93303
+
+---------- Testing Reverse ----------
+5 788.913 0
+10 2049.51 0
+15 2510.15 0
+20 8199.1 0
+25 15880.9 0
+30 18919.4 0
+35 24190.3 0
+40 29475.6 0
+45 31068.3 0
+50 34281.7 0
+
+---------- Testing High Degree ----------
+5 2510.7 0
+10 8442.92 0
+15 12448.4 0
+20 18546.7 0
+25 21908.7 0
+30 25362 0
+35 28092.5 0
+40 33924.1 0
+45 37020.3 0
+50 40826.5 0
+time elapsed: 1 hours 24 minutes 26 seconds

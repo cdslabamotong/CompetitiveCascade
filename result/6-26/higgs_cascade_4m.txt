@@ -1,0 +1,150 @@
+import ../data/higgs_100.txt VIC
+seed set: 1%
+========== Sandwich running ==========
+100000 1.55e+06
+80645.2 775000
+40322.6 387500
+21686.7 193750
+11823.6 96875
+6306.31 48437.5
+4854.85 24218.8
+3452.59 12109.4
+2501.88 6054.69
+2120.21 3027.34
+1826.2 1513.67
+l 597756 0
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 7 minutes 25 seconds
+========== Sandwich finish ==========
+
+========== Sandwich running ==========
+90322.6 1.55e+06
+80645.2 775000
+40322.6 387500
+21285.1 193750
+11022 96875
+5805.81 48437.5
+4054.05 24218.8
+2677.01 12109.4
+1738.8 6054.69
+1275.88 3027.34
+966.259 1513.67
+897.45 756.836
+l 1216359 23276
+working on upper solution...
+working on lower solution...
+time elapsed: 0 hours 0 minutes 13 seconds
+========== Sandwich finish ==========
+
+========== Reverse greedy running ==========
+l 22806 455
+working on mid-solution...
+greedy mid #1: 39
+greedy mid #2: 52
+greedy mid #3: 64
+greedy mid #4: 75
+greedy mid #5: 84
+greedy mid #6: 92
+greedy mid #7: 99
+greedy mid #8: 106
+greedy mid #9: 113
+greedy mid #10: 119
+greedy mid #11: 125
+greedy mid #12: 131
+greedy mid #13: 136
+greedy mid #14: 141
+greedy mid #15: 146
+greedy mid #16: 151
+greedy mid #17: 156
+greedy mid #18: 161
+greedy mid #19: 166
+greedy mid #20: 171
+greedy mid #21: 176
+greedy mid #22: 180
+greedy mid #23: 184
+greedy mid #24: 188
+greedy mid #25: 192
+greedy mid #26: 196
+greedy mid #27: 200
+greedy mid #28: 204
+greedy mid #29: 208
+greedy mid #30: 212
+greedy mid #31: 216
+greedy mid #32: 220
+greedy mid #33: 224
+greedy mid #34: 228
+greedy mid #35: 232
+greedy mid #36: 236
+greedy mid #37: 240
+greedy mid #38: 244
+greedy mid #39: 248
+greedy mid #40: 252
+greedy mid #41: 256
+greedy mid #42: 260
+greedy mid #43: 264
+greedy mid #44: 268
+greedy mid #45: 272
+greedy mid #46: 276
+greedy mid #47: 280
+greedy mid #48: 284
+greedy mid #49: 288
+greedy mid #50: 292
+time elapsed: 0 hours 4 minutes 50 seconds
+========== Reverse greedy finish ==========
+
+========== High degree running ==========
+time elapsed: 0 hours 0 minutes 0 seconds
+========== High degree finish ==========
+
+NEW TESTING
+---------- Testing Sandwich ----------
+5 221.1 0.524134
+10 311.75 0.596342
+15 383.85 0.625529
+20 436.9 0.629072
+25 478.9 0.628144
+30 575.15 0.648659
+35 646.75 0.671338
+40 688.95 0.679801
+45 742.4 0.694429
+50 820.1 0.71302
+
+---------- Testing Sandwich without cascade ----------
+5 96.55 1
+10 164.95 1
+15 223.55 1
+20 309.3 1
+25 350.95 1
+30 402.25 1
+35 449.15 1
+40 531.1 1
+45 572.45 1
+50 614.95 1
+
+---------- Testing Reverse ----------
+5 165.1 0
+10 231.8 0
+15 297.8 0
+20 347.1 0
+25 404.85 0
+30 424 0
+35 465.9 0
+40 499.45 0
+45 523.35 0
+50 567.35 0
+
+---------- Testing High Degree ----------
+5 170.45 0
+10 236.2 0
+15 296.6 0
+20 368.3 0
+25 411.3 0
+30 444.8 0
+35 530.15 0
+40 562.75 0
+45 606.8 0
+50 636.15 0
+
+time elapsed: 0 hours 13 minutes 40 seconds
+
