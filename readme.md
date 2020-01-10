@@ -110,3 +110,6 @@ After the executable file is created, it could be run using command
 ```bash
 $ ./start <dataset> <diffusion policy: WC/IC/VIC> <num of nodes> <num of seed k> <test span> <diffusion priority: random/cascade/neighbor> <load result? (default: false)> <new test? (default: true)>
 ```
+
+## Originality
+This repo is copied from the origin [repo](https://github.com/New2World/Computational-Data-Science-Lab/tree/master/CompetitiveCascade).
