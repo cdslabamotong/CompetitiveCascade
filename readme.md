@@ -112,4 +112,4 @@ $ ./start <dataset> <diffusion policy: WC/IC/VIC> <num of nodes> <num of seed k>
 ```
 
 ## Originality
-This repo is copied from the origin [repo](https://github.com/New2World/Computational-Data-Science-Lab/tree/master/CompetitiveCascade).
+This repo is copied from the original [repo](https://github.com/New2World/Computational-Data-Science-Lab/tree/master/CompetitiveCascade).
