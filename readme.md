@@ -1,6 +1,6 @@
 # Algorithmic Analysis of Multi-Cascade Influence Maximization
 
-This page shows the accompany C++ code for online paper _[Algorithmic Analysis of Multi-Cascade Influence Maximization](https://arxiv.org/abs/1912.00272)_
+This page shows the accompany C++ code for paper *Algorithmic Analysis of Multi-Cascade Influence Maximization*
 
 ## Data Structure
 
