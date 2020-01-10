@@ -1,6 +1,6 @@
-# On Multi-Cascade Influence Maximization: Model, Hardness and Algorithmic Framework
+# Algorithmic Analysis of Multi-Cascade Influence Maximization
 
-This page shows the accompany C++ code for online paper _[On Multi-Cascade Influence Maximization: Model, Hardness and Algorithmic Framework](https://arxiv.org/abs/1912.00272)_
+This page shows the accompany C++ code for online paper _[Algorithmic Analysis of Multi-Cascade Influence Maximization](https://arxiv.org/abs/1912.00272)_
 
 ## Data Structure
 
